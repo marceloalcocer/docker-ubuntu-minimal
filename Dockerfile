@@ -13,10 +13,10 @@
 #	Image contents
 #	##############
 #
-#   * Subset of packages included in minimial installation
-#   * Primary user
-#   * Primary user group
-#   * Primary user home directory structure
+#	* Subset of packages included in minimial installation
+#	* Primary user
+#	* Primary user group
+#	* Primary user home directory structure
 #
 # ############################################################################
 
